@@ -43,9 +43,10 @@ Webiste: https://workplaces.cy/
 
 [Project on GitHub](https://github.com/workplacescy)
 
-### Article about
+### Articles about project
 
-[«Рабочие места» для цифровых кочевников: реализация прагматичного API](https://habr.com/ru/post/694142/)
+* [«Рабочие места» для цифровых кочевников: реализация прагматичного API](https://habr.com/ru/post/694142/)
+* [«Рабочие места» для цифровых кочевников: реализация фронтэнда](https://habr.com/ru/post/695200/)
 
 
 <h2><img src="https://specialtycoffee.cy/icon.svg" height="32"/> Specialty Сoffee in Cyprus</h2>
