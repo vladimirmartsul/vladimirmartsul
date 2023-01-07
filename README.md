@@ -1,6 +1,6 @@
 # I’m currently working on
 
-* [Workplaces in Cyprus](https://workplaces.cy/)
+* [Workplaces for Digital Nomads](https://workplaces.digital/)
 * [Specialty Сoffee in Cyprus](https://specialtycoffee.cy/)
 * Larnaca IT community, meetups and party
 
@@ -32,14 +32,18 @@
     <a href="https://symfony.com" target="_blank" rel="noreferrer"><img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/></a>
     <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/></a>
     <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"><img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/></a>
+    <a href="https://pinia.vuejs.org/" target="_blank" rel="noreferrer"><img src="https://bestofjs.org/logos/pinia.svg" alt="pinia" width="40" height="40"/></a>
 </p>
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=vladimirmartsul&show_icons=true&locale=en&layout=compact" alt="vladimirmartsul" /></p>
 
 
-<h2><img src="https://workplaces.cy/icon.svg" height="32"/> Workplaces in Cyprus</h2>
+<h2><img src="https://workplaces.digital/icon.svg" height="32"/> Workplaces for Digital Nomads</h2>
 
-Webiste: https://workplaces.cy/
+Website: https://workplaces.digital/
+
+
+<h2><img src="https://workplaces.cy/icon.svg" height="32"/> Workplaces in Cyprus</h2>
 
 [Project on GitHub](https://github.com/workplacescy)
 
