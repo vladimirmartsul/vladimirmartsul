@@ -40,10 +40,11 @@
 
 <h2><img src="https://workplaces.digital/icon.svg" height="32"/> Workplaces for Digital Nomads</h2>
 
-Website: https://workplaces.digital/
+* Website: https://workplaces.digital/
+* Telegram chat bot: https://t.me/WorkplacesDigitalBot 
 
 
-<h2><img src="https://workplaces.cy/icon.svg" height="32"/> Workplaces in Cyprus</h2>
+<h2><img src="https://raw.githubusercontent.com/workplacescy/frontend/develop/public/icon.svg" height="32"/> Workplaces in Cyprus</h2>
 
 [Project on GitHub](https://github.com/workplacescy)
 
