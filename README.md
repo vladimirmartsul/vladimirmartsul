@@ -73,4 +73,4 @@ and [Прагматичная разработка](https://habr.com/ru/post/677
 
 ## 📣 Tutorials
 
-[Demo Symfony Currency Converter](https://dev.to/vladimir_mvs/demo-symfony-currency-converter-3ong) and [Демо Symfony конвертер валют](https://habr.com/ru/post/671956/)
+[Demo Symfony Currency Converter](https://dev.to/vladimir_mvs/demo-symfony-currency-converter-3ong) and [Демо Symfony конвертер валют](https://habr.com/ru/post/671956/) ([Project on GitHub](https://github.com/vladimirmartsul/symfony-exchange-demo))
