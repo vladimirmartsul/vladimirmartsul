@@ -2,12 +2,16 @@
 
 * [Workplaces for Digital Nomads](https://workplaces.digital/)
 * [Specialty Сoffee in Cyprus](https://specialtycoffee.cy/)
-* Larnaca IT community, meetups and party
+* [Larnaca IT community, meetups and party](https://t.me/larnacait)
 
 ## Connect with me
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?&logo=telegram&logoColor=white)](https://t.me/vladimir_mvs)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&logo=linkedin&logoColor=white)](https://linkedin.com/in/vladimirmartsul)
+
+## GitHub Stats
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=vladimirmartsul&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/vladimirmartsul)
 
 ## Languages and Tools
 
@@ -74,3 +78,6 @@ and [Прагматичная разработка](https://habr.com/ru/post/677
 ## 📣 Tutorials
 
 [Demo Symfony Currency Converter](https://dev.to/vladimir_mvs/demo-symfony-currency-converter-3ong) and [Демо Symfony конвертер валют](https://habr.com/ru/post/671956/) ([Project on GitHub](https://github.com/vladimirmartsul/symfony-exchange-demo))
+
+## Contributing to open source projects
+
