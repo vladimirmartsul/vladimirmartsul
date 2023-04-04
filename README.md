@@ -49,6 +49,7 @@
 
 ### Articles about project
 
+* [From Amazon Lex to GPT-4: How to make a bot with your own data?](https://dev.to/vladimir_mvs/from-amazon-lex-to-gpt-4-how-to-make-a-bot-with-your-own-data-3cih)
 * [От Amazon Lex до GPT-4: как сделать бота со «своими» данными?](https://habr.com/ru/articles/726698/)
 * [Workplaces.Digital — агрегатор кафе и коворкингов для цифровых кочевников и фрилансеров](https://habr.com/ru/articles/709266/)
 
