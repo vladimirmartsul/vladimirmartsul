@@ -47,6 +47,10 @@
 * Website: https://workplaces.digital/
 * Telegram chat bot: https://t.me/WorkplacesDigitalBot 
 
+### Articles about project
+
+* [Workplaces.Digital — агрегатор кафе и коворкингов для цифровых кочевников и фрилансеров] (https://habr.com/ru/articles/709266/)
+* [От Amazon Lex до GPT-4: как сделать бота со «своими» данными?] (https://habr.com/ru/articles/726698/)
 
 <h2><img src="https://raw.githubusercontent.com/workplacescy/frontend/develop/public/icon.svg" height="32"/> Workplaces in Cyprus</h2>
 
