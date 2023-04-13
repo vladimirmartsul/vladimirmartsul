@@ -86,3 +86,5 @@ and [Прагматичная разработка](https://habr.com/ru/post/677
 
 ## Contributing to open source projects
 
+* [Laravel Framework](https://github.com/laravel/framework/)
+* [Twill CMS](https://github.com/area17/twill/)
